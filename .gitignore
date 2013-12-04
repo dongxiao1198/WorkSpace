@@ -13,6 +13,9 @@ TestResults
 *.user
 *.sln.docstates
 
+#Data files
+*.xml
+
 # Build results
 [Dd]ebug/
 [Rr]elease/
@@ -35,7 +38,6 @@ x64/
 *.log
 *.vspscc
 *.vssscc
-*.xml
 .builds
 
 # Visual C++ cache files
